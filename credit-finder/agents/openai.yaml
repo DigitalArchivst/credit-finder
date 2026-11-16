@@ -1,0 +1,6 @@
+interface:
+  display_name: "Credit Finder"
+  short_description: "Trace credits, citations, and dependencies with evidence"
+  default_prompt: "Use $credit-finder to review this work and return an experimental v1.3.2 CREDIT report with evidence, credit wording, and license and disclaimer notices."
+policy:
+  allow_implicit_invocation: true

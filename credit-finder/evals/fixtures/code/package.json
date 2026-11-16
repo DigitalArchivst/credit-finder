@@ -1,0 +1,7 @@
+{
+  "name": "network-notebook-fixture",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {"d3": "7.9.0"}
+}
