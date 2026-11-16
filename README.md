@@ -14,7 +14,9 @@ Hosted AI tools send what you give them to a cloud model. Do not submit unpublis
 
 ## Install
 
-The skill is the [`credit-finder/`](credit-finder/) folder. Download `credit-finder-v1.3.2.zip` from the [latest release](https://github.com/DigitalArchivst/credit-finder/releases), or clone this repository, then copy the folder into place.
+**Download:** [credit-finder-v1.3.2.zip](https://github.com/DigitalArchivst/credit-finder/releases/download/v1.3.2/credit-finder-v1.3.2.zip)
+
+The ZIP is attached to the [v1.3.2 release](https://github.com/DigitalArchivst/credit-finder/releases/tag/v1.3.2), not stored in the folders above. It contains the same [`credit-finder/`](credit-finder/) folder you see here, so you can also clone this repository or use **Code**, **Download ZIP** at the top of this page. Unzip it, then copy the `credit-finder` folder into place.
 
 **Claude Code**, for all your projects:
 
